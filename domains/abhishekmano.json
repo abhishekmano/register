@@ -1,1 +1,12 @@
-
+{
+    "description": "Abhishek mano",
+    "repo": "https://github.com/abhishekmano",
+    "owner": {
+        "username": "abhishekmano",
+        "email": "abhishekmanoharan@cet.ac.in"
+    },
+    "record": {
+        "CNAME":"abhishekmano.github.io",
+        "URL": "https://abhishekmano.is-a.dev"
+    }
+}
